@@ -1,4 +1,4 @@
-import pytest， allure
+import pytest,allure
 class Test_01:
     @allure.step(title=‘这是测试1’)
     def test_01(self):
